@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenewM365", "RenewM365.csproj", "{17BB4081-D9B6-40EE-A6B6-2F8A984048F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17BB4081-D9B6-40EE-A6B6-2F8A984048F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BB4081-D9B6-40EE-A6B6-2F8A984048F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BB4081-D9B6-40EE-A6B6-2F8A984048F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BB4081-D9B6-40EE-A6B6-2F8A984048F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B5D68A-5964-4997-8422-7E7977F54CA3}
+	EndGlobalSection
+EndGlobal
