@@ -26,8 +26,9 @@ namespace RenewM365
 
             async static Task<User> getUser()
             {
-                string clientId = "0aa2670e-5b9d-4bb9-931a-7299bb0913c7";
-                string tenantID = "20d0c53a-82ae-4d18-97e7-459eaa05756a";
+                // https://docs.microsoft.com/en-us/windows/communitytoolkit/services/graphlogin
+                string clientId = "your-clientId";
+                string tenantID = "your-tenatId";
                 string[] scopes = new string[] { "user.read" };
 
                 IPublicClientApplication publicClientApplication = PublicClientApplicationBuilder
