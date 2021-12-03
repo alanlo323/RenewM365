@@ -8,7 +8,7 @@ Assign license to user via [Microsoft 365 admin center](https://admin.microsoft.
 Visit [Azure Portal - App registrations](https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade)  
 1. Create new application  
 2. Enter application detail
-3. Write down Application (client) ID   adn Directory (tenant) ID  
+3. Write down Application (client) ID and Directory (tenant) ID  
 
 ## Usage
 1. Run program
